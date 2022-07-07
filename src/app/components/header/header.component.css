@@ -1,0 +1,9 @@
+div {
+    background-color: #424242;
+}
+
+app-social {
+    float: right;
+    margin-top: 25px;
+    margin-right: 10px;
+}
